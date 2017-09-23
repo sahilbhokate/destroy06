@@ -1,0 +1,10 @@
+if (foo)
+{
+    // code here
+}
+
+try
+{
+    // code here
+}
+catch (Exception bar)
